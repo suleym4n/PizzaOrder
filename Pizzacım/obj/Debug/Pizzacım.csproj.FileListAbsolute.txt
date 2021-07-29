@@ -1,0 +1,24 @@
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\bin\Debug\Pizzacım.exe.config
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\bin\Debug\Pizzacım.exe
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\bin\Debug\Pizzacım.pdb
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csprojAssemblyReference.cache
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.Properties.Resources.resources
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.GenerateResource.cache
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.exe
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.pdb
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.Main.resources
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Suleyman\source\repos\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.CopyComplete
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csprojAssemblyReference.cache
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.Main.resources
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.Properties.Resources.resources
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.GenerateResource.cache
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.CoreCompileInputs.cache
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.exe
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.pdb
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\bin\Debug\Pizzacım.exe.config
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\bin\Debug\Pizzacım.exe
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\bin\Debug\Pizzacım.pdb
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\Suleyman\Desktop\Staj Projeler\Pizzacım\Pizzacım\obj\Debug\Pizzacım.csproj.CopyComplete
